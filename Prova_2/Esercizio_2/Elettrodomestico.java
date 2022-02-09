@@ -1,4 +1,4 @@
 public abstract class Elettrodomestico implements Pulizia{
 
-    abstract int getID();
+    public abstract int getID();
 }
